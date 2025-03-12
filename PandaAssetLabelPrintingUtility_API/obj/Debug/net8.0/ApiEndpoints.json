@@ -1,0 +1,126 @@
+[
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.AssetsController",
+    "Method": "GetAssets",
+    "RelativePath": "api/Assets/GetAssets",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "assetsReqParams",
+        "Type": "PandaAssetLabelPrintingUtility_API.BAL.RequestParameters\u002BAssetsReqParams",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.AssetsController",
+    "Method": "ImportMasterData",
+    "RelativePath": "api/Assets/ImportMasterData",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.ConnectionController",
+    "Method": "GetConnection",
+    "RelativePath": "api/Connection/GetConnection",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.LabelController",
+    "Method": "GetLabelInfo",
+    "RelativePath": "api/Label/GetLabelInfo",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.TreeViewController",
+    "Method": "GetCategories",
+    "RelativePath": "api/TreeView/GetCategories",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.TreeViewController",
+    "Method": "GetLocations",
+    "RelativePath": "api/TreeView/GetLocations",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.UserController",
+    "Method": "ChangePassword",
+    "RelativePath": "api/User/ChangePassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePassword",
+        "Type": "PandaAssetLabelPrintingUtility_API.BAL.RequestParameters\u002BChangePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.UserController",
+    "Method": "ForgotPassword",
+    "RelativePath": "api/User/ForgotPassword",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "changePassword",
+        "Type": "PandaAssetLabelPrintingUtility_API.BAL.RequestParameters\u002BChangePassword",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.UserController",
+    "Method": "GetAllUsers",
+    "RelativePath": "api/User/GetAllUsers",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PandaAssetLabelPrintingUtility_API.Controllers.UserController",
+    "Method": "Login",
+    "RelativePath": "api/User/Login",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "loginParam",
+        "Type": "PandaAssetLabelPrintingUtility_API.BAL.RequestParameters\u002BLoginparam",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

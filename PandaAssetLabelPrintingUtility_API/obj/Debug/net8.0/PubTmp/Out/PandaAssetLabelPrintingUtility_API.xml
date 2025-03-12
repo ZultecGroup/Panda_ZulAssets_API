@@ -1,0 +1,75 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PandaAssetLabelPrintingUtility_API</name>
+    </assembly>
+    <members>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.AssetsController.GetAssets(PandaAssetLabelPrintingUtility_API.BAL.RequestParameters.AssetsReqParams)">
+             <summary>
+             The API will return all the assets against LocID or AstCatID
+             </summary>
+             <returns></returns>
+            
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.AssetsController.ImportMasterData">
+             <summary>
+             The API will return all the assets against LocID or AstCatID
+             </summary>
+             <returns></returns>
+            
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.ConnectionController.GetConnection">
+             <summary>
+             The API will return all active Impacts in response
+             </summary>
+             <returns></returns>
+            
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.LabelController.GetLabelInfo">
+             <summary>
+             The API will return all the assets against LocID or AstCatID
+             </summary>
+             <returns></returns>
+            
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.TreeViewController.GetLocations">
+             <summary>
+             The API will return all locations
+             </summary>
+             <returns></returns>
+            
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.TreeViewController.GetCategories">
+             <summary>
+             The API will return all locations
+             </summary>
+             <returns></returns>
+            
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.UserController.Login(PandaAssetLabelPrintingUtility_API.BAL.RequestParameters.Loginparam)">
+            <summary>
+            Login API
+            </summary>
+            <param name="loginParam"></param>
+            <returns></returns>
+            
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.UserController.ChangePassword(PandaAssetLabelPrintingUtility_API.BAL.RequestParameters.ChangePassword)">
+            <summary>
+            This API will verify the old password first and if it is correct it will update it with New Password.
+            </summary>
+            <param name="changePassword"></param>
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.UserController.GetAllUsers">
+            <summary>
+            This API will return the email address for all users who are active
+            </summary>
+        </member>
+        <member name="M:PandaAssetLabelPrintingUtility_API.Controllers.UserController.ForgotPassword(PandaAssetLabelPrintingUtility_API.BAL.RequestParameters.ChangePassword)">
+            <summary>
+            This API will verify the old password first and if it is correct it will update it with New Password.
+            </summary>
+            <param name="changePassword"></param>
+        </member>
+    </members>
+</doc>

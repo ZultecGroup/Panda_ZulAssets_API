@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35219.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PandaAssetLabelPrintingUtility_API", "PandaAssetLabelPrintingUtility_API\PandaAssetLabelPrintingUtility_API.csproj", "{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E5F889C-0835-4E9D-81F2-6B8D121D8BAC}
+	EndGlobalSection
+EndGlobal

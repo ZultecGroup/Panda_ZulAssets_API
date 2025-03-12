@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PandaAssetLabelPrintingUtility_API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1c0ef4ac3b9b331f5f4faafee9c1c02fe7457f6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6393f334836abe86465cbc1955e333d279e2f23b")]
 [assembly: System.Reflection.AssemblyProductAttribute("PandaAssetLabelPrintingUtility_API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PandaAssetLabelPrintingUtility_API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

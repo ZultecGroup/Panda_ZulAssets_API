@@ -1,38 +1,14 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\",
+  "WorkspaceRootPath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\controllers\\assetscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\dal\\datalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\dal\\datalogic.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\bal\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\bal\\requestparameters.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\api\\pandaassetlabelprintingutility_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\controllers\\labelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\controllers\\labelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\backend\\pandaassetlabelprintingutility_api\\controllers\\treeviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\controllers\\treeviewcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|d:\\projects\\jeddah\\panda\\asset management web\\api\\pandaassetlabelprintingutility_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6267D4DA-D5DC-4AF6-9B17-3EB716E4A67E}|PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj|solutionrelative:pandaassetlabelprintingutility_api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -54,106 +30,28 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\UserController.cs",
-              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-12T06:28:18.131Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "AssetsController.cs",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\AssetsController.cs",
-              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\Controllers\\AssetsController.cs",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\AssetsController.cs",
-              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\Controllers\\AssetsController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAYwDgAAAAQAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-26T06:10:18.918Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "RequestParameters.cs",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\BAL\\RequestParameters.cs",
-              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\BAL\\RequestParameters.cs",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\BAL\\RequestParameters.cs",
-              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\BAL\\RequestParameters.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T10:22:02.844Z",
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
+              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-03-12T07:01:24.188Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "DataLogic.cs",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\DAL\\DataLogic.cs",
-              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\DAL\\DataLogic.cs",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\DAL\\DataLogic.cs",
-              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\DAL\\DataLogic.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAuwG4AAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-12T08:13:45.015Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
-              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-30T05:51:03.825Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "appsettings.json",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\appsettings.json",
+              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\appsettings.json",
               "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\appsettings.json",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\appsettings.json",
+              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\appsettings.json",
               "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABUAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-09-26T06:53:47.111Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "TreeViewController.cs",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\TreeViewController.cs",
-              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\Controllers\\TreeViewController.cs",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\TreeViewController.cs",
-              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\Controllers\\TreeViewController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T05:32:22.961Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "LabelController.cs",
-              "DocumentMoniker": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\LabelController.cs",
-              "RelativeDocumentMoniker": "PandaAssetLabelPrintingUtility_API\\Controllers\\LabelController.cs",
-              "ToolTip": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\Controllers\\LabelController.cs",
-              "RelativeToolTip": "PandaAssetLabelPrintingUtility_API\\Controllers\\LabelController.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-06T05:32:34.878Z",
+              "WhenOpened": "2025-03-12T07:01:20.148Z",
               "EditorCaption": ""
             }
           ]

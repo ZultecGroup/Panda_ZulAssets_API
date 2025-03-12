@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xLc/9prbsAU=",
+  "dgSpecHash": "NDqjyaRMuig=",
   "success": true,
-  "projectFilePath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj",
+  "projectFilePath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\8.0.8\\microsoft.aspnetcore.authentication.jwtbearer.8.0.8.nupkg.sha512",
     "C:\\Users\\Administrator\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\8.0.8\\microsoft.aspnetcore.jsonpatch.8.0.8.nupkg.sha512",

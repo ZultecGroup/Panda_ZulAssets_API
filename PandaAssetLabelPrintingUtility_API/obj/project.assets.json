@@ -1445,11 +1445,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj",
+      "projectUniqueName": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj",
       "projectName": "PandaAssetLabelPrintingUtility_API",
-      "projectPath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj",
+      "projectPath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\PandaAssetLabelPrintingUtility_API.csproj",
       "packagesPath": "C:\\Users\\Administrator\\.nuget\\packages\\",
-      "outputPath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\Backend\\PandaAssetLabelPrintingUtility_API\\obj\\",
+      "outputPath": "D:\\Projects\\Jeddah\\PANDA\\Asset Management Web\\API\\PandaAssetLabelPrintingUtility_API\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
